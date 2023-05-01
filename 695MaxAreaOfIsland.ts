@@ -1,3 +1,6 @@
+// https://www.youtube.com/watch?v=Us6LBYBVko4
+// https://www.youtube.com/watch?v=iJGr1OtmH0c
+
 function maxAreaOfIsland(grid: number[][]): number {
   // const seen: boolean[][] = [[false]]
   const seen: boolean[][] = []
