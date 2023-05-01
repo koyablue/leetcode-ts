@@ -1,4 +1,4 @@
-import { ListNode } from './ListNode'
+import { ListNode } from './models/ListNode'
 
 const addTwoNumbers = (l1: ListNode | null, l2: ListNode | null): ListNode | null => {
   const dummy = new ListNode()

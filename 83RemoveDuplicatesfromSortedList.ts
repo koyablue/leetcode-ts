@@ -1,4 +1,4 @@
-import { ListNode } from './ListNode'
+import { ListNode } from './models/ListNode'
 
 const deleteDuplicates = (head: ListNode | null): ListNode | null => {
   if (!head) return null

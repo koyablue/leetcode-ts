@@ -1,4 +1,4 @@
-import { ListNode } from './ListNode'
+import { ListNode } from './models/ListNode'
 
 
 const reverseList = (head: ListNode | null): ListNode | null => {

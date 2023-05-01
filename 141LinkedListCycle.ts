@@ -1,4 +1,4 @@
-import { ListNode } from './ListNode'
+import { ListNode } from './models/ListNode'
 
 const hasCycle = (head: ListNode | null): boolean => {
   if (!head || !head.next) return false
